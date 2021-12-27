@@ -233,7 +233,6 @@ Navbar
   .navbar {
     padding: 1rem 2rem;
   }
-  /* hide toggle button */
   .nav-toggle {
     display: none;
   }
